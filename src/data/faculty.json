@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Pradeep Kumar",
+        "designation": "Professor & Head",
+        "qualification": "Ph.D. in Computer Science",
+        "specialization": "Artificial Intelligence",
+        "experience": "20 Years",
+        "research_areas": [
+            "Machine Learning",
+            "Data Mining",
+            "Soft Computing"
+        ],
+        "email": "pradeep@manuu.edu.in",
+        "phone": "+91-9876543210",
+        "image_url": "https://placehold.co/150x150?text=PK"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Abdul Wahid",
+        "designation": "Associate Professor",
+        "qualification": "Ph.D. in Computer Science (JNU)",
+        "specialization": "Software Engineering",
+        "experience": "16 Years",
+        "research_areas": [
+            "Software Reliability",
+            "Cloud Computing"
+        ],
+        "email": "wahid@manuu.edu.in",
+        "phone": "+91-9876543211",
+        "image_url": "https://placehold.co/150x150?text=AW"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Muqeem Ahmed",
+        "designation": "Assistant Professor",
+        "qualification": "Ph.D. in Computer Science",
+        "specialization": "Computer Networks",
+        "experience": "12 Years",
+        "research_areas": [
+            "Wireless Sensor Networks",
+            "IoT"
+        ],
+        "email": "muqeem@manuu.edu.in",
+        "phone": "+91-9876543212",
+        "image_url": "https://placehold.co/150x150?text=MA"
+    },
+    {
+        "id": 4,
+        "name": "Mr. Jameel Ahamed",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech in CS",
+        "specialization": "Database Systems",
+        "experience": "10 Years",
+        "research_areas": [
+            "Big Data",
+            "Data Science"
+        ],
+        "email": "jameel@manuu.edu.in",
+        "phone": "+91-9876543213",
+        "image_url": "https://placehold.co/150x150?text=JA"
+    },
+    {
+        "id": 5,
+        "name": "Ms. Khaleda Afroaz",
+        "designation": "Assistant Professor",
+        "qualification": "M.Tech in CS",
+        "specialization": "Web Technologies",
+        "experience": "9 Years",
+        "research_areas": [
+            "Web Mining",
+            "Semantic Web"
+        ],
+        "email": "khaleda@manuu.edu.in",
+        "phone": "+91-9876543214",
+        "image_url": "https://placehold.co/150x150?text=KA"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Bonthu Kotaiah",
+        "designation": "Assistant Professor",
+        "qualification": "Ph.D. in CS",
+        "specialization": "Image Processing",
+        "experience": "8 Years",
+        "research_areas": [
+            "Digital Image Processing",
+            "Pattern Recognition"
+        ],
+        "email": "kotaiah@manuu.edu.in",
+        "phone": "+91-9876543215",
+        "image_url": "https://placehold.co/150x150?text=BK"
+    }
+]
