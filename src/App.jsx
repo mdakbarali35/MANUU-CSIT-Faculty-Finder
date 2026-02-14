@@ -33,7 +33,7 @@ function App() {
           WebkitBackgroundClip: 'text',
           WebkitTextFillColor: 'transparent'
         }}>
-          Anti-Gravity
+          MANUU CS & IT Faculty Finder
         </h1>
         <p style={{ fontSize: '1.2rem', opacity: 0.8 }}>Faculty Finder System</p>
       </header>
